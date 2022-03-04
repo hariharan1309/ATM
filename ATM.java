@@ -1,4 +1,3 @@
-package atm;
 import java.util.*;
 class Customer extends User{
 	static Scanner get=new Scanner(System.in);
